@@ -138,7 +138,7 @@ DAILY:20140501:20141001 Set up GPG for email.
 DAILY:20150420:20150510 Register for the belly dance festival. http://www.bellydancefestival.se/festival-sbdf-cbn/register-to-sbdf-3423506
 DAILY:20150331:20150409 Submit to useR! Submissions are due April 10.
 DAILY:20150331:20150402 Convert my mummy bag to use on the hammock
-DAILY:20150331:20150405 Acquire chain lube, lighter fluid, three nice water bottle cages, three cheap ("disposable") water bottles, and maybe a bell
+DAILY:20150410:20150412 Acquire chain lube, lighter fluid, three nice water bottle cages, three cheap ("disposable") water bottles, and maybe a bell
 20150413 8am PT to 7pm PT rsync.net is doing maintenance
-TODO Give up with Apache and use Gunicorn behind Nginx? http://docs.gunicorn.org/en/latest/deploy.html
 TODO Go to http://www.bikeparts4u.nl/index.php?route=information/contact
+TODO Convert my nginx.conf to apache so I can get rid of nginx.
