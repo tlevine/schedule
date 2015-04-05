@@ -136,8 +136,9 @@ DAILY:20140501:20141001 Set up GPG for email.
 20150323 Send a rate for HDX
 20150323 Install Google Hangouts
 DAILY:20150420:20150510 Register for the belly dance festival. http://www.bellydancefestival.se/festival-sbdf-cbn/register-to-sbdf-3423506
-DAILY:20150331:20150409 Submit to useR! Submissions are due April 10.
+20150404 Submit to useR! Submissions are due April 10.
 DAILY:20150331:20150402 Convert my mummy bag to use on the hammock
 DAILY:20150410:20150412 Acquire chain lube, lighter fluid, three nice water bottle cages, three cheap ("disposable") water bottles, and maybe a bell
 20150413 8am PT to 7pm PT rsync.net is doing maintenance
-TODO Convert my nginx.conf to apache so I can get rid of nginx.
+20150401 Convert my nginx.conf to apache so I can get rid of nginx.
+TODO Patch the other file too. https://bugs.freedesktop.org/show_bug.cgi?id=88479
