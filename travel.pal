@@ -32,3 +32,4 @@ DAILY:20150205:20150206 Train from Chicago to New York
 20150209 Bus to Philly
 20150325 23:30 Flight DY7012
 20150318 4:15 am bus
+20150601 I think I have to leave Europe before today: datetime.date(2015,3,26) + (datetime.timedelta(90) - (datetime.timedelta(180) - (datetime.date(2015,3,26) - datetime.date(2014,10,20))))
